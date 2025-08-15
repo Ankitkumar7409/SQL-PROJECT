@@ -1,2 +1,0 @@
-# SQL-PROJECT
-pizza sales
